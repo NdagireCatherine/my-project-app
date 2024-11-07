@@ -28,12 +28,12 @@ function goToNextPage(){}
       <Button variant="outlined">Outlined</Button>
 
       export default function BoxBasic() {
-  return (
-    <Box component="section" sx={{ p: 2, border: '1px dashed grey' }}>
-      The 2024 U.S. presidential election will take place on November 5, 2024. This election will determine the President and Vice President of the United States for the next four-year term, beginning in January 2025. The election process involves voters in all 50 states and the District of Columbia casting ballots for electors in the Electoral College, which formally elects the President and Vice President.
-    </Box>
-  );
-}
+        
+          <Box component="section" sx={{ p: 2, border: '1px dashed grey' }}>
+            The 2024 U.S. presidential election will take place on November 5, 2024. This election will determine the President and Vice President of the United States for the next four-year term, beginning in January 2025. The election process involves voters in all 50 states and the District of Columbia casting ballots for electors in the Electoral College, which formally elects the President and Vice President.
+          </Box>
+        
+      }
 
 
 
