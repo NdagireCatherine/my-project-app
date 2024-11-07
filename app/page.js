@@ -1,6 +1,6 @@
-import Title from "./Components/Title";
+import Title from "../app/Components/Title";
 
-import Content from "./Components/Content";
+import Content from "../app/Components/Content";
 import Button from '@mui/material/Button';
 
 import * as React from 'react';
